@@ -1,10 +1,16 @@
 # JSbooks
 Recursos gratuitos de JS
 
-📖 Building Frontend Web Apps with Plain Javascript: https://www.youtube.com/redirect?redir_token=QUFFLUhqbkppa28tZkZWZTlBLWJBc2RrWGZjWVZpV2gyUXxBQ3Jtc0tsN29XaEJMLTBid1ZHbk5wcXRpaTB1aWEtWUFVT09qVHgtTW56YTNFcDVRWjZ0N0QzQlhlODdTZDBJalp3a190bUtfSklHMnUzTlNDVTZYeWkzcEEyU2dNSUsyR3J6SFVXZDBwSHZtVW9rMkpFeTVKaw%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Fweb-engineering.info%2FJsFrontendApp-Book&event=video_description
-📖 Javascript for impatient programmers: https://www.youtube.com/redirect?redir_token=QUFFLUhqbjJ3bW1EWFlFSXJqTGkxWEVtZUtRaEpUSEpPZ3xBQ3Jtc0tuWWlILVYyT1JKOWF3cUJaRGhhQUdMOGx4TUlHd05uZUs1YldwVG5PVGpCM1Z3T0k2aHZvaFNEVG54OUFFV1FMVW1JaVlad2ZldVFabUV5SGtrV1lJVWgxRTNscUVVN3lKbkNzbzdVVWRaTUNMNDhTTQ%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Fexploringjs.com%2Fimpatient-js%2Ftoc.html&event=video_description
-📖 Eloquent Javascript: https://www.youtube.com/redirect?redir_token=QUFFLUhqblBrd2EyOGdNRnc1YUdEc1lrejF2Y0Z2NWV2d3xBQ3Jtc0ttT0I4M2hHT3FrMmtpM0plOE5tQ0pkc3hWVGFIT1hlMnpxSjVudWpXRTNQTXBJWGpRdVNCNWFFRUFvbTBqcVMxeVhsT2VyOUdILWxxWFR2cXByaHRwOUNCeGNGaVk5YWNPRW9GRDNsSkMwR0xHR0hJYw%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Feloquentjavascript.net%2F&event=video_description
-📖 Human Javascript: https://www.youtube.com/redirect?redir_token=QUFFLUhqbXVuRFkyay1VdUw4YUNHd1MzSUVncm5CREk3d3xBQ3Jtc0tteUl6Q09abF9idGFGenpGdV9EbEVRVm5LQm94N1FUa09lcVNkRG12T1dyVzNtbEljV29nRDVUMjJFZVpybW4yWUFJR25SVVJiWFd1NTh1SXV3LUp6X18yRU81SlZ2LUhWNENtWEFhNXgyVzhVNW85WQ%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Fread.humanjavascript.com%2F&event=video_description
-📖 Learning JavaScript Design Patterns: https://www.youtube.com/redirect?redir_token=QUFFLUhqbG5fWE04TU5vZUdlMG8tMFRaN2pfRXhiWnhoZ3xBQ3Jtc0tsTmEtYTZzeTk1eG01LXMtNjh1Z3lEYXF6cE1BeTZ5TXo2alZ4SGMwVlpmcWl4eW9GLUlzbFhvVHMyXzJweHlpNEgtemM2ZFVhRk1pOVZGMldyemNZSmtBbV84SThpMW52VnRObW83X3MtZmE1TEM5SQ%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Faddyosmani.com%2Fresources%2Fessentialjsdesignpatterns%2Fbook%2F&event=video_description
-📖 Javascript Info: https://www.youtube.com/redirect?redir_token=QUFFLUhqbEtlYk9wUHEzSngyZk1faWozeFFBUDZyQlYxd3xBQ3Jtc0trQkdsQWg3SlozTWdndlo1TnMtX1pBUkdQeVJzMVQ1aXNjR1piY2tRaGxteHBMbi1Gc2d1X3RMZXQzZzBiUEpGMkZaRFgxcExXRVBoMHN1cWZKc0xlQkl1bHlOYjRMQjlQZFdZTUlpcDNsRHg4VVNUcw%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Fjavascript.info%2F&event=video_description
-📖 You Don't Know JS:https://www.youtube.com/redirect?redir_token=QUFFLUhqa3M0RGVEaTVVVVdGZTlNdEd4Ry1nek1SYkZsUXxBQ3Jtc0trZnVmb0VuXzFiaTVVZV9Fd04tTjVNUHZjM0Y3NjBPa0ZhSGp0WEU5SWg1VWs3aGl3Ym9HVnVVSVRUTmJleFg3Tl9nbDhLSW1acnZoZXZTbGtteGZUUkh1U20xVWt4VTFJZnYwUlFSQXBvWFFFUjNmRQ%3D%3D&v=Rtqvnl02Zcs&q=https%3A%2F%2Fgithub.com%2FYou-Dont-Know-JS-ES%2FTraduccion&event=video_description
+<h2> 📖 Building Frontend Web Apps with Plain Javascript:</h2> https://web-engineering.info/JsFrontendApp-Book 
+
+<h2> 📖 Javascript for impatient programmers:</h2> https://exploringjs.com/impatient-js/toc.html
+
+<h2> 📖 Eloquent Javascript:</h2> https://eloquentjavascript.net/
+
+<h2> 📖 Human Javascript:</h2> https://read.humanjavascript.com/
+
+<h2> 📖 Learning JavaScript Design Patterns: </h2>https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+<h2> 📖 Javascript Info:</h2> https://es.javascript.info/
+
+<h2> 📖 You Don't Know JS:</h2> https://github.com/You-Dont-Know-JS-ES/Traduccion
